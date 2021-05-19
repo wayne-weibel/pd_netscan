@@ -1,0 +1,13 @@
+{
+  "name": "Presciptive Data Local Network Scan",
+  "version": "0.0.1",
+  "description": "Scan Local Network for 'alive' hosts",
+  "main": "scan.js",
+  "dependencies": {
+    "ip-cidr": "2.1.4",
+    "ping": "0.4.1"
+  },
+  "devDependencies": {},
+  "author": "Wayne Weibel",
+  "license": "GPL-3.0"
+}
